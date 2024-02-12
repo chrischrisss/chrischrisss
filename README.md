@@ -1,7 +1,8 @@
-<p align = "center">
-  Hi there 👋
-</p>
+### Hey There 👋
 
+<p>
+  Welcome to my page where I just post random projects. 
+</p>
 
 
 
@@ -25,4 +26,3 @@ Languages
 
 
 
- ![Snake animation](https://github.com/chrischrisss/chrischrisss/blob/output/github-contribution-grid-snake.svg)
