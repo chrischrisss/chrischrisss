@@ -1,7 +1,7 @@
 ### Hey There 👋
 
 <p>
-  Welcome to my page where I just post random projects. 
+  Welcome to my page where I post random projects. 
 </p>
 
 
